@@ -1,6 +1,6 @@
 # Metrics_collection_script
 
-This the script which you can use to collect metrics about your linux server.
+This script which you can use to collect metrics from linux server.
 
 This is not a complete version because it was created for the purpose of learning.
 _______________________________________
